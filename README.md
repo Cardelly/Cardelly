@@ -73,10 +73,6 @@
     />
   </a>
   
-  <div align="center">
-  <a href="https://github.com/Cardelly">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cardelly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardelly&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cardelly&show_icons=true" width="49.5%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardelly&layout=compact" width="49%">
   
 </p>
