@@ -57,22 +57,7 @@
 ## GitHub Stats: <br>
 <p align="center">
 </br>
-</br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardelly&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Cardelly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
-  </a>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Cardelly&show_icons=true" width="49.5%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardelly&layout=compact" width="49%">
+</br>  
+<img src="https://github-readme-stats.vercel.app/api?username=Cardelly&show_icons=true" width="49.5%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardelly&layout=compact" width="49%">
   
 </p>
