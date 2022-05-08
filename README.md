@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-## Oi, eu me chamo Phillippy Cardelly!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Oi, eu me chamo Phillippy Cardelly! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim:
 <div style="display: inline_block"  >
