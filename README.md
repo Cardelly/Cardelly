@@ -7,13 +7,13 @@
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Dev Python e aspirante a cientista de dados. </p>
-<p> - 👨‍🎓 Estudante de Ciência da computação, cursando o 8° semestre (Último). </p>
+<p> - 👨‍🎓 Estudante de Ciência da Computação, cursando o 8° semestre (Último). </p>
 <p> - 🎯 Interesses: Java, API , HTML, CSS, AWS e Docker. </p>
-<p> - 🎮 Fã de CS:GO </p>
+<p> - 🎮 Fã de CS:GO. </p>
   
 </div>
 
-## Minhas skills :nerd_face:
+## Minhas skills: :nerd_face:
 <div align="center">
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +27,7 @@
    
 </div>
 
-## Meus contatos :iphone:
+## Meus contatos: :iphone:
 
 <p align="center">
     <a href="https://github.com/Cardelly">
@@ -45,7 +45,7 @@
 
 <p align="center"> 
 
- ## Total de visitas no meu perfil :detective: <br>
+ ## Total de visitas no meu perfil: :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Cardelly/count.svg" />
  </p>
@@ -54,7 +54,7 @@
 
 <p align="center"> 
 
-## GitHub Stats <br>
+## GitHub Stats: <br>
 <p align="center">
 </br>
 </br>
