@@ -29,7 +29,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Dev Python. </p>
+<p> - 👨‍💻 Dev Python e aspirante a Cientista de Dados. </p>
 <p> - 👨‍🎓 Estudante de Ciência da computação, cursando o 8° semestre (Último). </p>
 <p> - 🎯 Interesse: Java, API , HTML, CSS, AWS e Docker. </p>
 <p> - 🎮 Fã de CS:GO </p>
