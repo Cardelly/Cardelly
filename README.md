@@ -13,7 +13,7 @@
   
 </div>
 
-## Minhas skills: :nerd_face:
+## Minhas skills: 😎
 <div align="center">
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +27,7 @@
    
 </div>
 
-## Meus contatos: :iphone:
+## Meus contatos: ☎️
 
 <p align="center">
     <a href="https://github.com/Cardelly">
