@@ -5,7 +5,7 @@
 
 ### Sobre mim: 😁
 <div style="display: inline_block"  >
-<img align="right" width="200" height="200" style="border-radius:30px;" src="naruto.gif?raw=true" />
+<img align="right" width="150" height="150" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Dev Python e aspirante a cientista de dados. </p>
 <p> - 👨‍🎓 Estudante de Ciência da Computação, cursando o 8° semestre (Último). </p>
 <p> - 🎯 Interesses: Flutter, Dart, Java, API , HTML, CSS, AWS e Docker. </p>
