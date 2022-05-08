@@ -54,7 +54,7 @@
 
 <p align="center"> 
 
-## GitHub Stats: <br>
+## GitHub Stats: 📊 <br>
 <p align="center">
 </br>
 </br>  
