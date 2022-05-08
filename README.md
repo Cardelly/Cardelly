@@ -58,6 +58,6 @@
 <p align="center">
 </br>
 </br>  
-<img src="https://github-readme-stats.vercel.app/api?username=Cardelly&show_icons=true" width="49.5%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardelly&layout=compact" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=Cardelly&show_icons=true" width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardelly&layout=compact" width="50%">
   
 </p>
