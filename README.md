@@ -3,7 +3,7 @@
 
 ## Oi, eu me chamo Phillippy Cardelly! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Sobre mim:
+### Sobre mim: 😁
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Dev Python e aspirante a cientista de dados. </p>
@@ -58,6 +58,6 @@
 <p align="center">
 </br>
 </br>  
-<img src="https://github-readme-stats.vercel.app/api?username=Cardelly&show_icons=true&theme=merko" width="40%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardelly&layout=compact&theme=merko" width="33.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=Cardelly&show_icons=true&theme=radical" width="40%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardelly&layout=compact&theme=radical" width="33.5%">
   
 </p>
